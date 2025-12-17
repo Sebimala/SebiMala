@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Micro:Bit and TypeScript<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python and GdScript<br>💬 Ask me about Micro:Bit<br>⚡ Fun fact: I never touch grass
+🔭 I’m currently working on Micro:Bit and TypeScript<br>🤝 I’m looking for help with making a macrokeyboard<br>🌱 I’m currently learning Python and GdScript<br>💬 Ask me about Micro:Bit<br>⚡ Fun fact: I never touch grass
 
 
 # 💻 Tech Stack:
